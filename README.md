@@ -16,4 +16,4 @@ I'm Hasan Yavuz and im trying to be an IOS Developer.
 
 #### Profile Visits
 
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=hasnayavzu.hasnayavzu&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hasnayavzu.hasnayavzu&left_color=blue&right_color=gray)
