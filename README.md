@@ -11,7 +11,9 @@ I'm Hasan Yavuz and im trying to be an IOS Developer.
 - ⚡ Fun fact: I play games and like night time walks.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnayavzu)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnayavzu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Profile Visits
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=hasnayavzu.hasnayavzu&left_color=green&right_color=red)
+
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=hasnayavzu.hasnayavzu&left_color=green&right_color=red)
